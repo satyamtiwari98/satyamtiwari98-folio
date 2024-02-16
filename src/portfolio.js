@@ -9,7 +9,7 @@ const about = {
   name: "Satyam Tiwari",
   role: "Software Engineer",
   description: "",
-  resume: "https://example.com",
+  resume: "https://www.google.com",
   social: {
     linkedin: "https://linkedin.com/satyamtiwari98",
     github: "https://github.com/satyamtiwari98",
