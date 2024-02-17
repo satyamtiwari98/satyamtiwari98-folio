@@ -20,28 +20,26 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: "Project 1",
+    name: "Short URL",
     description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+      "This is a simple URL shortening service built with the MERN (MongoDB, Express.js, React.js, Node.js) stack.",
+    stack: ["MongoDB", "Express", "React", "NodeJS"],
+    sourceCode: "https://github.com/satyamtiwari98/short-url",
+    livePreview: "https://github.com/satyamtiwari98/short-url",
   },
   {
-    name: "Project 2",
-    description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    name: "NetFlix__Clone_React",
+    description: "This is a Netflix clone built with React",
+    stack: ["ReactJS", "JavaScript", "HTML", "CSS"],
+    sourceCode: "https://github.com/satyamtiwari98/NetFlix__Clone_React",
+    livePreview: "https://github.com/satyamtiwari98/NetFlix__Clone_React",
   },
   {
-    name: "Project 3",
-    description:
-      "Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam",
-    stack: ["SASS", "TypeScript", "React"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    name: "Online Exam",
+    description: "This is an Online Exam System built with PHP and MySQL.",
+    stack: ["PHP", "Mysql", "Javascript"],
+    sourceCode: "https://github.com/satyamtiwari98/OnlineExam",
+    livePreview: "https://github.com/satyamtiwari98/OnlineExam",
   },
 ];
 
@@ -54,6 +52,9 @@ const skills = [
   "TypeScript",
   "React",
   "Redux",
+  "NodeJs",
+  "ExpressJs",
+  "MongoDB",
   "SASS",
   "Material UI",
   "Git",
